@@ -1,12 +1,3 @@
-**Repository Name Suggestions**  
-1. `ns-cloner-batch-automator`  
-2. `wp-ns-cloner-multi-clone`  
-3. `ns-cloner-bulk-clone-scripts`  
-
----
-
-## README.md
-
 ```markdown
 # NS Cloner Batch Clone Script
 
